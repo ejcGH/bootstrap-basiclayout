@@ -1,0 +1,23 @@
+.container {
+  margin: 50px;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+.row-class {
+  margin: 0;
+}
+
+.row-class > div {
+  padding: 0;
+}
+
+.navbar .navbar-nav .nav-item:not(:last-child) {
+  border-right: 2px solid;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+}
